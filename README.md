@@ -7,7 +7,8 @@
 
 🚀 Built projects like:  
 - 🤖 **RAG Chatbot Analytics Platform** – Next.js + Airflow + MySQL + Pinecone + LangChain, delivering real-time knowledge retrieval.  
-- 💬 **CRM Chatbot** – Node.js + Dialogflow chatbot reducing Tier-1 workload by 20%.  `n- 📱 **Offline-first Android apps** – Kotlin + Jetpack Compose utilities including Bill Reminder and Expense Tracker.  
+- 💬 **CRM Chatbot** – Node.js + Dialogflow chatbot reducing Tier-1 workload by 20%.
+- 📱 **Offline-first Android apps** – Kotlin + Jetpack Compose utilities including Bill Reminder and Expense Tracker.  
 - 🎮 **Roblox Multiplayer Game** – Lua-based game with **500k+ visits** and ~1,100 daily active users.  
 - 📸 **Chkoun Kifek** – Facial recognition app (Python + Flutter + OpenCV + Scikit-Learn).  
 
