@@ -1,74 +1,40 @@
-<div align="center">
+# 👋 Hey, I’m Iyed Becheikh  
+💻 Software/ML Engineer | Full-Stack Developer | Lifelong Learner  
 
-# Iyed Becheikh
+👀 Passionate about **machine learning, web development, and building scalable systems** that bridge AI with real-world applications.  
 
-<p>Software and ML engineer building full-stack products, AI workflows, mobile apps, and practical developer tools.</p>
+🌱 Currently building with **LangChain, RAG pipelines, local-first Android apps, and agent/developer tooling**.  
 
-<p>
-  <a href="https://github.com/IyedBecheikh/iyedbecheikh">Repository</a>
-  · <a href="https://github.com/IyedBecheikh/iyedbecheikh/issues">Issues</a>
-</p>
+🚀 Built projects like:  
+- 🤖 **RAG Chatbot Analytics Platform** – Next.js + Airflow + MySQL + Pinecone + LangChain, delivering real-time knowledge retrieval.  
+- 💬 **CRM Chatbot** – Node.js + Dialogflow chatbot reducing Tier-1 workload by 20%.  `n- 📱 **Offline-first Android apps** – Kotlin + Jetpack Compose utilities including Bill Reminder and Expense Tracker.  
+- 🎮 **Roblox Multiplayer Game** – Lua-based game with **500k+ visits** and ~1,100 daily active users.  
+- 📸 **Chkoun Kifek** – Facial recognition app (Python + Flutter + OpenCV + Scikit-Learn).  
 
-</div>
+🎯 **2026 Focus:** Build production-ready AI pipelines, grow as a **ML/Software Engineer**, and collaborate on impactful open-source projects.  
 
-## Table of Contents
+✨ Also freelancing & contributing to platforms like **Crowdin, Steem Blockchain, and open-source projects**.  
 
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Screenshots and Demo](#screenshots-and-demo)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
+---
 
-## About
+## 🧰 My Toolbox  
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,lua,react,next,vue,nodejs,express,flask,django,mysql,mongodb,docker,kubernetes,git,gcp,vscode,figma" /> 
+</p>  
 
-Software and ML engineer building full-stack products, AI workflows, mobile apps, and practical developer tools.
+---
 
-**Status:** Personal GitHub profile README.
+## 📊 GitHub Stats  
+![Iyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=IyedBecheikh&show_icons=true&theme=tokyonight)  
 
-## Features
+---
 
-- This is the profile repository, so no local application setup is required.
-- Browse the pinned repositories and project links on the GitHub profile for current work.
+## 📫 How to reach me  
+📧 Email: **becheikh.iyed@gmail.com**  
+💼 LinkedIn: [🔗 Profile](https://www.linkedin.com/in/iyed-becheikh-35960922a/)  
+🐙 GitHub: [🔗 IyedBecheikh](https://github.com/IyedBecheikh)  
+🎓 Credly: [🔗 Badges](http://credly.com/users/iyed-becheikh.9571a443)  
 
-## Tech Stack
+---
 
-- Full-stack web development with TypeScript, React, and Next.js`n- Machine learning, RAG, and data-oriented systems`n- Kotlin Android and React Native mobile products`n- Product prototyping across games, utilities, and automation`n- Open-source and community-oriented engineering interests
-
-## Screenshots and Demo
-
-No license file is currently present; profile content is not intended as a reusable software package.
-
-## Getting Started
-
-Use this README as a concise orientation to current interests and selected work. Keep project claims, metrics, and links current as products evolve.
-
-## Usage
-
-Add a small set of verified project case studies Link directly to the strongest public demos and shipped apps Keep the toolbox focused on technologies used in recent work
-
-## Roadmap
-
-- [ ] Selected work includes RAG systems, mobile utilities, games, and full-stack product prototypes. Keep unfinished projects labeled as such.
-
-## Contributing
-
-This is a focused project maintained by Iyed Becheikh. Issues and pull requests are welcome when they include a clear problem statement, reproduction details, or a focused improvement proposal.
-
-## License
-
-
-
-## Contact
-
-Maintainer: [Iyed Becheikh](https://github.com/IyedBecheikh)
-
-Project: [https://github.com/IyedBecheikh/iyedbecheikh](https://github.com/IyedBecheikh/iyedbecheikh)
-
-## Acknowledgements
-
-- [Awesome README Template](https://github.com/Louis3797/awesome-readme-template)
-- The open-source libraries and platform documentation referenced by the project.
+⚡ **Fun fact:** I once built a bot that automated earnings distribution on the **Steem Blockchain** — code + automation = more time for innovation 🚀  
